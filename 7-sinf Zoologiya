@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Abiturient</title>
+</head>
+<body>
+  <h1>Abiturientlar uchun onlayn ta'lim</h1>
+  <h2>Fanlar</h2>
+  <ul>
+    <li><a href="#">Biologiya</a> (tez orada)</li>
+  </ul>
+</body>
+</html>
